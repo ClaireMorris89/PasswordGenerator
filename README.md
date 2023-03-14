@@ -10,19 +10,18 @@ After selecting the desired options, pressing the "generate password" button wil
 
 ## Usage 
 
-This website can be used as a resume for potential employers to visit when I am wanting to showcase my work and abilities. With clear information on myself, my work, and how to contact me via several different methods.
+This website is used by simply pressing the "generate password" button, and then following the prompts to select your desired password type.
 
-Website can be found at : https://clairemorris89.github.io/Portfolio/
+Website can be found at : 
 
-<img src="/Users/clairemorris/bootcamp/Portfolio/assets/about-me.png" alt="header, navbar, about me/">
+Screenshot of website : 
 
-<img src="/Users/clairemorris/bootcamp/Portfolio/assets/my-work.png" alt="my work project thumbnails">
+<img width="1193" alt="Screenshot 2023-03-14 at 1 25 46 PM" src="https://user-images.githubusercontent.com/124100820/225115521-a3992f91-6f4b-498e-a2e0-9f5e0554f0a1.png">
 
-<img src="/Users/clairemorris/bootcamp/Portfolio/assets/contact-me.png" alt="my contact options">
  
 ## Credits 
 
-I added Urban Outfitters and Sephora's websites in "my work" section as fun placeholders until I have enough of my own work to replace these! 
+N/A
 
 ## License 
 
