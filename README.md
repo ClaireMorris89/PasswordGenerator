@@ -14,6 +14,8 @@ This website is used by simply pressing the "generate password" button, and then
 
 Website can be found at : 
 
+https://clairemorris89.github.io/PasswordGenerator/
+
 Screenshot of website : 
 
 <img width="1193" alt="Screenshot 2023-03-14 at 1 25 46 PM" src="https://user-images.githubusercontent.com/124100820/225115521-a3992f91-6f4b-498e-a2e0-9f5e0554f0a1.png">
