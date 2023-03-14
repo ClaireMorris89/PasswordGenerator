@@ -29,11 +29,11 @@ function generatePassword(){
   }
   else {
     alert('password must be between 8-128 characters');
-    generatePassword();
+    return generatePassword();
   }
     if (possibilities.length === 0){
       alert('you must choose at least one character type');
-      return;
+      return generatePassword();
     }
 
     var generated = '';
